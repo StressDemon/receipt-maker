@@ -7,6 +7,10 @@
   <img src="https://cdn.discordapp.com/attachments/1232761498170953749/1279157338732888187/follow_receipt.png?ex=66d36b9b&is=66d21a1b&hm=0bf986f8a7ff3feef286580e92b2d2994fdad65993180335b0ba881a02bc26f3&" alt="Receipt Example">
 </p>
 
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1232761498170953749/1279440577359908915/image.png?ex=66d47364&is=66d321e4&hm=6917b6d89300c9e360dba0a1ab568f499472ab75dc73cf47fce838dac11f40fb&" alt="Receipt Maker UI Example">
+</p>
+
 
 ## Features
 
@@ -18,7 +22,7 @@
 
 ## Usage
 
-To use the `generate_receipt.exe`, simply download the latest release from the [Releases](https://github.com/StressDemon/receipt-maker/releases) page. Run the exe from the command line with the following options:
+To use the `generate_receipt.exe`, simply download the latest release from the [Releases](https://github.com/StressDemon/receipt-maker/releases) page. Run the exe by double clicking it for manual use or from the command line with the following options:
 
 ```
 generate_receipt.exe <streamer_name> <follower_name> <action> [options]
